@@ -614,6 +614,62 @@ const countriesData = [
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/images/laplap.jpg", desc: "Laplap" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/yasur-volcano.jpg", desc: "Volcan Yasur" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/naghol.jpg", desc: "Naghol (saut rituel)" }
+},
+{
+  name: "Vietnam",
+  coords: [21.0285, 105.8542],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/pho.jpg", desc: "Pho" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/halong-bay.jpg", desc: "Baie d'Ha Long" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/hoi-an-festival.jpg", desc: "Festival des lanternes de Hoi An" }
+},
+{
+  name: "Thaïlande",
+  coords: [13.7563, 100.5018],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/pad-thai.jpg", desc: "Pad Thai" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/wat-arun.jpg", desc: "Wat Arun" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/songkran.jpg", desc: "Songkran (fête de l'eau)" }
+},
+{
+  name: "Indonésie",
+  coords: [-6.2088, 106.8456],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/nasi-goreng.jpg", desc: "Nasi Goreng" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/borobudur.jpg", desc: "Borobudur" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/kecak-dance.jpg", desc: "Danse Kecak (Bali)" }
+},
+{
+  name: "Philippines",
+  coords: [14.5995, 120.9842],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/adobo.jpg", desc: "Adobo" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/banaue-rice-terraces.jpg", desc: "Rizières de Banaue" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/sinulog-festival.jpg", desc: "Festival Sinulog (Cebu)" }
+},
+{
+  name: "Malaisie",
+  coords: [3.1390, 101.6869],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/nasi-lemak.jpg", desc: "Nasi Lemak" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/petronas-towers.jpg", desc: "Tours Petronas" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/thaipusam.jpg", desc: "Thaipusam" }
+},
+{
+  name: "Myanmar",
+  coords: [16.8409, 96.1735],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/mohinga.jpg", desc: "Mohinga" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/shwedagon-pagoda.jpg", desc: "Pagode Shwedagon" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/thingyan.jpg", desc: "Thingyan (fête de l'eau birmane)" }
+},
+{
+  name: "Cambodge",
+  coords: [11.5564, 104.9282],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/amok.jpg", desc: "Amok" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/angkor-wat.jpg", desc: "Angkor Wat" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/bon-om-touk.jpg", desc: "Bon Om Touk (fête de l'eau)" }
+},
+{
+  name: "Laos",
+  coords: [17.9757, 102.6331],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/larb.jpg", desc: "Larb" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/that-luang.jpg", desc: "That Luang (Vientiane)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/lao-new-year.jpg", desc: "Pi Mai Lao (Nouvel An laotien)" }
 }
 
 
