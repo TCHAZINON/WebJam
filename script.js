@@ -572,9 +572,49 @@ const countriesData = [
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/7ef775541fa60c6b357003406910fa1a0a360624/public/images/mamba.jpg", desc: "Mamba (poisson ou viande en sauce)" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/7ef775541fa60c6b357003406910fa1a0a360624/public/bg/bangui-monuments.jpg", desc: "Monuments de Bangui" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/7ef775541fa60c6b357003406910fa1a0a360624/public/bg/bangui-festival.jpg", desc: "Festival de la musique et danse" }
+},
+{
+  name: "Chine",
+  coords: [39.9042, 116.4074],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/images/jiaozi.jpg", desc: "Jiaozi (raviolis chinois)" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/7ef775541fa60c6b357003406910fa1a0a360624/public/bg/GrandeMurailleChine.jpg", desc: "Grande Muraille de Chine" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/chinese-new-year.jpg", desc: "Nouvel An chinois" }
+},
+{
+  name: "Jordanie",
+  coords: [31.9454, 35.9284],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/images/mansaf.jpg", desc: "Mansaf" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/petra.jpg", desc: "Petra (Le Trésor)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/petra-by-night.jpg", desc: "Petra by Night" }
+},
+{
+  name: "Pologne",
+  coords: [52.2297, 21.0122],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/images/pierogi.jpg", desc: "Pierogi" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/wawel-castle.jpg", desc: "Château de Wawel" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/wianki.jpg", desc: "Wianki (fête de la Saint-Jean)" }
+},
+{
+  name: "Tunisie",
+  coords: [36.8065, 10.1815],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/images/brik.jpg", desc: "Brik" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/el-jem.jpg", desc: "Amphithéâtre d'El Jem" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/carthage-festival.jpg", desc: "Festival International de Carthage" }
+},
+{
+  name: "Bolivie",
+  coords: [-16.5000, -68.1500],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/images/saltenas.jpg", desc: "Salteñas" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/uyuni.jpg", desc: "Salar de Uyuni" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/oruro-carnival.jpg", desc: "Carnaval de Oruro" }
+},
+{
+  name: "Vanuatu",
+  coords: [-17.7333, 168.3273],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/images/laplap.jpg", desc: "Laplap" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/yasur-volcano.jpg", desc: "Volcan Yasur" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/405c66a7f3d7ac59339936a2f74c962085bc3705/public/bg/naghol.jpg", desc: "Naghol (saut rituel)" }
 }
-
-
 
 
 ];
