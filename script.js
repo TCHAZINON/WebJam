@@ -233,7 +233,7 @@ const countriesData = [
   name: "Mexique",
   coords: [19.4326, -99.1332],
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/images/Tacos.jpg", desc: "Tacos" },
-  monument: { img: "public/bg/ChichenItza.jpg", desc: "Chichen Itza" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/bg/ChichenItza.jpg", desc: "Chichen Itza" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/bg/JourDesMorts.jpg", desc: "Jour des morts" }
 },
 {
@@ -493,8 +493,8 @@ const countriesData = [
   {
     name: "Kirghizistan",
     coords: [42.8746, 74.5698],
-    dish: { img: "public/images/beshbarmak-kg.jpg", desc: "Beshbarmak kirghize" },
-    monument: { img: "public/bg/son-kul.jpg", desc: "Lac Son-Koul" },
+    dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/images/beshbarmak-kg.jpg", desc: "Beshbarmak kirghize" },
+    monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/bg/son-kul.jpg", desc: "Lac Son-Koul" },
     festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/bg/nomad-festival.jpg", desc: "Festival des Nomades" }
   },
   {
@@ -502,7 +502,7 @@ const countriesData = [
     coords: [38.5598, 68.7870],
     dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/images/qurutob.jpg", desc: "Qurutob (plat à base de pain et yaourt)" },
     monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/bg/pamir.jpg", desc: "Monts du Pamir" },
-    festival: { img: "public/bg/nowruz-tj.jpg", desc: "Navruz" }
+    festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/main/public/bg/nowruz-tj.jpg", desc: "Navruz" }
   },
   {
     name: "Arménie",
