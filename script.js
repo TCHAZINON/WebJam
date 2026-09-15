@@ -670,6 +670,62 @@ const countriesData = [
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/images/larb.jpg", desc: "Larb" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/that-luang.jpg", desc: "That Luang (Vientiane)" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/89009e73b62cbea83364f5b96c1d7305975f2810/public/bg/lao-new-year.jpg", desc: "Pi Mai Lao (Nouvel An laotien)" }
+},
+{
+  name: "Arabie saoudite",
+  coords: [24.7136, 46.6753],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/kabsa.jpg", desc: "Kabsa" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/diriyah.jpg", desc: "At-Turaif (Diriyah)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/janadriyah.jpg", desc: "Festival de Janadriyah" }
+},
+{
+  name: "Émirats arabes unis",
+  coords: [25.2048, 55.2708],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/harees.jpg", desc: "Harees" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/burj-khalifa.jpg", desc: "Burj Khalifa" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/liwa-festival.jpg", desc: "Festival international de Liwa" }
+},
+{
+  name: "Liban",
+  coords: [33.8938, 35.5018],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/tabbouleh.jpg", desc: "Tabbouleh" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/baalbek.jpg", desc: "Baalbek (Temple de Bacchus)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/cedars-of-god.jpg", desc: "Cèdres de Dieu" }
+},
+{
+  name: "Israël",
+  coords: [32.0853, 34.7818],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/hummus.jpg", desc: "Houmous" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/bahai-gardens.jpg", desc: "Jardins Bahá'ís (Haïfa)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/purim.jpg", desc: "Pourim" }
+},
+{
+  name: "Irak",
+  coords: [33.3152, 44.3661],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/masgouf.jpg", desc: "Masgouf" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/ziggurat-of-ur.jpg", desc: "Ziggourat d'Ur" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/nowruz-kirkuk.jpg", desc: "Nowruz à Kirkouk" }
+},
+{
+  name: "Iran",
+  coords: [35.6892, 51.3890],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/ghormeh-sabzi.jpg", desc: "Ghormeh Sabzi" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/persepolis.jpg", desc: "Persépolis" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/chaharshanbe-suri.jpg", desc: "Chaharshanbe Suri" }
+},
+{
+  name: "Yémen",
+  coords: [15.3694, 44.1910],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/mandi.jpg", desc: "Mandi" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/old-sanaa.jpg", desc: "Vieille ville de Sanaa" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/souk-sanaa.jpg", desc: "Souk Al Milh (marché traditionnel de Sanaa)" }
+},
+{
+  name: "Oman",
+  coords: [23.5880, 58.3829],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/omani-shuwa.jpg", desc: "Shuwa" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/sultan-qaboos-mosque.jpg", desc: "Grande Mosquée du Sultan Qabous" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/khareef-salalah.jpg", desc: "Khareef (saison de mousson, Salalah)" }
 }
 
 
