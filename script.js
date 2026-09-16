@@ -726,6 +726,62 @@ const countriesData = [
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/images/omani-shuwa.jpg", desc: "Shuwa" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/sultan-qaboos-mosque.jpg", desc: "Grande Mosquée du Sultan Qabous" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/b745095da50a52d42be387aa273c28208827ae5c/public/bg/khareef-salalah.jpg", desc: "Khareef (saison de mousson, Salalah)" }
+},
+{
+  name: "Guatemala",
+  coords: [14.6349, -90.5069],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/pepian.jpg", desc: "Pepián" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/tikal.jpg", desc: "Tikal" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/semana-santa-antigua.jpg", desc: "Semana Santa (Antigua)" }
+},
+{
+  name: "Costa Rica",
+  coords: [9.9281, -84.0907],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/gallo-pinto.jpg", desc: "Gallo Pinto" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/arenal-volcano.jpg", desc: "Volcan Arenal" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/boruca-diablitos.jpg", desc: "Fiesta de los Diablitos (Boruca)" }
+},
+{
+  name: "Panama",
+  coords: [8.9824, -79.5199],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/sancocho-panama.jpg", desc: "Sancocho" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/panama-canal.jpg", desc: "Canal de Panama (Miraflores)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/carnaval-las-tablas.jpg", desc: "Carnaval de Las Tablas" }
+},
+{
+  name: "Haïti",
+  coords: [18.5944, -72.3074],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/griot.jpg", desc: "Griot" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/citadelle-laferriere.jpg", desc: "Citadelle Laferrière" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/kanaval-jacmel.jpg", desc: "Kanaval de Jacmel" }
+},
+{
+  name: "République dominicaine",
+  coords: [18.4861, -69.9312],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/mangu.jpg", desc: "Mangú" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/catedral-primada.jpg", desc: "Cathédrale Primatiale d'Amérique" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/carnaval-la-vega.jpg", desc: "Carnaval de La Vega" }
+},
+{
+  name: "Jamaïque",
+  coords: [17.9712, -76.7936],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/jerk-chicken.jpg", desc: "Jerk Chicken" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/dunns-river-falls.jpg", desc: "Dunn's River Falls" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/jonkonnu-jamaica.jpg", desc: "Jonkonnu" }
+},
+{
+  name: "Trinité-et-Tobago",
+  coords: [10.6549, -61.5019],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/doubles.jpg", desc: "Doubles" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/pitch-lake.jpg", desc: "Pitch Lake" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/trinidad-carnival.jpg", desc: "Carnaval de Trinité-et-Tobago" }
+},
+{
+  name: "Bahamas",
+  coords: [25.0343, -77.3963],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/conch-salad.jpg", desc: "Conch Salad" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/queens-staircase.jpg", desc: "Queen's Staircase (Nassau)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/junkanoo-nassau.jpg", desc: "Junkanoo" }
 }
 
 
