@@ -896,6 +896,62 @@ const countriesData = [
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/irish-stew.jpg", desc: "Irish Stew" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/cliffs-of-moher.jpg", desc: "Falaises de Moher" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/st-patricks-day.jpg", desc: "Défilé de la Saint-Patrick" }
+},
+{
+  name: "Tonga",
+  coords: [-21.1789, -175.1982],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Lu Pulu" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/haamonga-a-maui.jpg", desc: "Ha'amonga 'a Maui" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/polyfest-tonga.jpg", desc: "Polyfest" }
+},
+{
+  name: "Îles Salomon",
+  coords: [-9.4280, 159.9498],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/images/honiara-fish-market.jpg", desc: "Marché aux poissons de Honiara" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/east-rennell.jpg", desc: "East Rennell" },
+  festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Danse traditionnelle des Îles Salomon" }
+},
+{
+  name: "Kiribati",
+  coords: [1.3382, 173.0176],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Palusami" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/phoenix-islands.jpg", desc: "Aire protégée des îles Phoenix" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/kiribati-dance-mat.jpg", desc: "Tapis de danse traditionnel" }
+},
+{
+  name: "Micronésie",
+  coords: [6.9248, 158.1611],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Poisson et fruit à pain" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/nan-madol.jpg", desc: "Nan Madol" },
+  festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Yap Day" }
+},
+{
+  name: "Îles Marshall",
+  coords: [7.1164, 171.1858],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Poisson et noix de coco" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/majuro-atoll.png", desc: "Atoll de Majuro" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/marshall-canoe.png", desc: "Pirogue traditionnelle" }
+},
+{
+  name: "Palaos",
+  coords: [7.3419, 134.4792],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Poisson et taro" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/rock-islands-palau.jpg", desc: "Rock Islands" },
+  festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Danse traditionnelle palauane" }
+},
+{
+  name: "Nauru",
+  coords: [-0.5477, 166.9209],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Poisson grillé" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/nauru-aerial.jpg", desc: "Vue aérienne de Nauru" },
+  festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Angam Day" }
+},
+{
+  name: "Tuvalu",
+  coords: [-8.5211, 179.1983],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Poisson et noix de coco" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/funafuti-beach.jpg", desc: "Lagon de Funafuti" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/fatele-tuvalu.jpg", desc: "Fatele" }
 }
 
 
