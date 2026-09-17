@@ -838,6 +838,62 @@ const countriesData = [
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/matoke.jpg", desc: "Matoke" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/source-of-the-nile.jpg", desc: "Source du Nil (Jinja)" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/uganda-stick-dance.jpg", desc: "Danse traditionnelle aux bâtons" }
+},
+{
+  name: "Serbie",
+  coords: [44.7866, 20.4489],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/cevapi.jpg", desc: "Ćevapi" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/kalemegdan.jpg", desc: "Forteresse de Kalemegdan" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/guca-festival.jpg", desc: "Festival de la trompette de Guča" }
+},
+{
+  name: "Croatie",
+  coords: [45.8150, 15.9819],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/strukli.jpg", desc: "Štrukli" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/dubrovnik.jpg", desc: "Vieille ville de Dubrovnik" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/rijeka-carnival.jpg", desc: "Carnaval de Rijeka" }
+},
+{
+  name: "Bosnie-Herzégovine",
+  coords: [43.8563, 18.4131],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/burek.jpg", desc: "Burek" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/stari-most.jpg", desc: "Stari Most (Mostar)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/sarajevo-film-festival.jpg", desc: "Festival du film de Sarajevo" }
+},
+{
+  name: "Autriche",
+  coords: [48.2082, 16.3738],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/wiener-schnitzel.jpg", desc: "Wiener Schnitzel" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/schonbrunn.jpg", desc: "Château de Schönbrunn" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/christkindlmarkt.jpg", desc: "Marché de Noël viennois" }
+},
+{
+  name: "Suisse",
+  coords: [46.9480, 7.4474],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/fondue.jpg", desc: "Fondue" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/matterhorn.jpg", desc: "Cervin (Matterhorn)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/basel-fasnacht.jpg", desc: "Fasnacht de Bâle" }
+},
+{
+  name: "Hongrie",
+  coords: [47.4979, 19.0402],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/goulash.jpg", desc: "Gulyás" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/hungarian-parliament.jpg", desc: "Parlement hongrois (Budapest)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/busojaras.jpg", desc: "Busójárás (Mohács)" }
+},
+{
+  name: "République tchèque",
+  coords: [50.0755, 14.4378],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/svickova.jpg", desc: "Svíčková" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/charles-bridge.jpg", desc: "Pont Charles (Prague)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/masopust.jpg", desc: "Masopust" }
+},
+{
+  name: "Irlande",
+  coords: [53.3498, -6.2603],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/images/irish-stew.jpg", desc: "Irish Stew" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/cliffs-of-moher.jpg", desc: "Falaises de Moher" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/3f8cb615d85dd1c8703fac5f8e46a644243d6c82/public/bg/st-patricks-day.jpg", desc: "Défilé de la Saint-Patrick" }
 }
 
 
