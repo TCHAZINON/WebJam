@@ -782,6 +782,62 @@ const countriesData = [
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/images/conch-salad.jpg", desc: "Conch Salad" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/queens-staircase.jpg", desc: "Queen's Staircase (Nassau)" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/8ea84e73c4e5401ad2d8e8f3c13bf33dd1ec35ea/public/bg/junkanoo-nassau.jpg", desc: "Junkanoo" }
+},
+{
+  name: "RD Congo",
+  coords: [-4.4419, 15.2663],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/moambe.jpg", desc: "Poulet à la Moambe" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/virunga-gorilla.jpg", desc: "Parc national des Virunga (gorilles)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/rumba-congolaise.jpg", desc: "Rumba congolaise" }
+},
+{
+  name: "Angola",
+  coords: [-8.8390, 13.2894],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/calulu.jpg", desc: "Calulu" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/kalandula-falls.jpg", desc: "Chutes de Kalandula" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/carnaval-luanda.jpg", desc: "Carnaval de Luanda" }
+},
+{
+  name: "Zambie",
+  coords: [-15.3875, 28.3228],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/nshima.jpg", desc: "Nshima" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/victoria-falls.jpg", desc: "Chutes Victoria" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/kuomboka.jpg", desc: "Cérémonie de Kuomboka" }
+},
+{
+  name: "Zimbabwe",
+  coords: [-17.8292, 31.0522],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/sadza.jpg", desc: "Sadza" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/great-zimbabwe.jpg", desc: "Ruines du Grand Zimbabwe" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/mbira-zimbabwe.jpg", desc: "Musique Mbira" }
+},
+{
+  name: "Mozambique",
+  coords: [-25.9692, 32.5732],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/piri-piri.jpg", desc: "Poulet piri-piri" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/ilha-de-mocambique.jpg", desc: "Île de Mozambique" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/danse-mozambique.jpg", desc: "Danse traditionnelle mozambicaine" }
+},
+{
+  name: "Madagascar",
+  coords: [-18.8792, 47.5079],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/romazava.jpg", desc: "Romazava" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/avenue-baobabs.jpg", desc: "Allée des Baobabs" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/hira-gasy.jpg", desc: "Hira Gasy" }
+},
+{
+  name: "Rwanda",
+  coords: [-1.9403, 29.8739],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/isombe.jpg", desc: "Isombe" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/volcanoes-np-rwanda.jpg", desc: "Parc national des Volcans (gorilles)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/intore-dance.jpg", desc: "Danse Intore" }
+},
+{
+  name: "Ouganda",
+  coords: [0.3476, 32.5825],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/images/matoke.jpg", desc: "Matoke" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/source-of-the-nile.jpg", desc: "Source du Nil (Jinja)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/602f388095a253fe7709023ec3a32dc44e436adb/public/bg/uganda-stick-dance.jpg", desc: "Danse traditionnelle aux bâtons" }
 }
 
 
