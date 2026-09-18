@@ -952,6 +952,76 @@ const countriesData = [
   dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Poisson et noix de coco" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/funafuti-beach.jpg", desc: "Lagon de Funafuti" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/2d35cd74d144cd2928054e44f9e91e8c6a9ee722/public/bg/fatele-tuvalu.jpg", desc: "Fatele" }
+},
+{
+  name: "Norvège",
+  coords: [59.9139, 10.7522],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Fårikål" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/preikestolen.jpg", desc: "Preikestolen" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/17-mai.jpg", desc: "17 mai (fête nationale)" }
+},
+{
+  name: "Danemark",
+  coords: [55.6761, 12.5683],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/images/smorrebrod.jpg", desc: "Smørrebrød" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/little-mermaid.jpg", desc: "La Petite Sirène (Copenhague)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/sankt-hans.jpg", desc: "Sankt Hans" }
+},
+{
+  name: "Islande",
+  coords: [64.1466, -21.9426],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/images/kjotsupa.jpg", desc: "Kjötsúpa" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/gullfoss.jpg", desc: "Gullfoss" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/thjodhatid.jpg", desc: "Þjóðhátíð" }
+},
+{
+  name: "Belgique",
+  coords: [50.8503, 4.3517],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/images/frites-belges.jpg", desc: "Frites belges" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/grand-place.jpg", desc: "Grand-Place (Bruxelles)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/carnaval-binche.jpg", desc: "Carnaval de Binche" }
+},
+{
+  name: "Luxembourg",
+  coords: [49.6116, 6.1319],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/images/judd-mat-gaardebounen.jpg", desc: "Judd mat Gaardebounen" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/luxembourg-grund.jpg", desc: "Le Grund" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/schueberfouer.jpg", desc: "Schueberfouer" }
+},
+{
+  name: "Andorre",
+  coords: [42.5063, 1.5218],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Trinxat" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/casa-de-la-vall.jpg", desc: "Casa de la Vall" },
+  festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Festa Major d'Andorra la Vella" }
+},
+{
+  name: "Monaco",
+  coords: [43.7384, 7.4246],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Barbagiuan" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/prince-palace-monaco.jpg", desc: "Palais princier" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/monaco-grand-prix.jpg", desc: "Grand Prix de Monaco" }
+},
+{
+  name: "Saint-Marin",
+  coords: [43.9424, 12.4578],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Torta Tre Monti" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/guaita-fortress.jpg", desc: "Forteresse de Guaita" },
+  festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Palio delle Balestre" }
+},
+{
+  name: "Liechtenstein",
+  coords: [47.1410, 9.5209],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/images/kasespatzle.jpg", desc: "Käsknöpfle" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/vaduz-castle.jpg", desc: "Château de Vaduz" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/furstenfest.jpg", desc: "Fürstenfest" }
+},
+{
+  name: "Vatican",
+  coords: [41.9029, 12.4534],
+  dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Cuisine romaine" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/st-peters-basilica.jpg", desc: "Basilique Saint-Pierre" },
+  festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Messe de Pâques (place Saint-Pierre)" }
 }
 
 
