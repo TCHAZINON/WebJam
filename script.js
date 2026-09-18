@@ -1022,8 +1022,70 @@ const countriesData = [
   dish: { img: "TODO_IMAGE_MANQUANTE", desc: "Cuisine romaine" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/da9e34e2a029d5df7bf8ff023dbad6e6f1eea858/public/bg/st-peters-basilica.jpg", desc: "Basilique Saint-Pierre" },
   festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Messe de Pâques (place Saint-Pierre)" }
+},
+{
+  name: "Slovaquie",
+  coords: [48.1486, 17.1077],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/bryndzove-halusky.jpg", desc: "Bryndzové halušky" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/bratislava-castle.jpg", desc: "Château de Bratislava" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/vychodna-folklore-festival.jpg", desc: "Festival folklorique de Východná" }
+},
+{
+  name: "Slovénie",
+  coords: [46.0569, 14.5058],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/potica.jpg", desc: "Potica" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/bled-island.jpg", desc: "Île de Bled" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/kurentovanje.jpg", desc: "Kurentovanje (carnaval de Ptuj)" }
+},
+{
+  name: "Monténégro",
+  coords: [42.4304, 19.2594],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/njeguski-prsut.jpg", desc: "Pršut de Njeguši" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/bay-of-kotor.jpg", desc: "Baie de Kotor" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/kotor-carnival.jpg", desc: "Carnaval de Kotor" }
+},
+{
+  name: "Macédoine du Nord",
+  coords: [41.9981, 21.4254],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/tavce-gravce.jpg", desc: "Tavče gravče" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/st-john-kaneo.jpg", desc: "Église Saint-Jean de Kaneo (Ohrid)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/galicnik-wedding.jpg", desc: "Mariage traditionnel de Galičnik" }
+},
+{
+  name: "Albanie",
+  coords: [41.3275, 19.8187],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/tave-kosi.jpg", desc: "Tavë kosi" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/berat-old-town.jpg", desc: "Vieille ville de Berat" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/dita-e-veres.jpg", desc: "Dita e Verës (fête du printemps)" }
+},
+{
+  name: "Roumanie",
+  coords: [44.4268, 26.1025],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/sarmale.jpg", desc: "Sarmale" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/bran-castle.jpg", desc: "Château de Bran" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/martisor.jpg", desc: "Mărțișor" }
+},
+{
+  name: "Bulgarie",
+  coords: [42.6977, 23.3219],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/banitsa.jpg", desc: "Banitsa" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/rila-monastery.jpg", desc: "Monastère de Rila" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/kukeri.jpg", desc: "Kukeri" }
+},
+{
+  name: "Chypre",
+  coords: [35.1856, 33.3823],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/halloumi.jpg", desc: "Halloumi grillé" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/kourion-theatre.jpg", desc: "Théâtre antique de Kourion" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/cypriot-traditional-dance.jpg", desc: "Danse traditionnelle chypriote" }
+},
+{
+  name: "Malte",
+  coords: [35.8989, 14.5146],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/pastizzi.jpg", desc: "Pastizzi" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/valletta-skyline.jpg", desc: "Silhouette de La Valette" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/malta-carnival.jpg", desc: "Carnaval de Malte" }
 }
-
 
 ];
 
@@ -1044,10 +1106,15 @@ function updateMarkers() {
   });
 }
 
+const IMAGE_PLACEHOLDER = 'data:image/svg+xml;utf8,' + encodeURIComponent(
+  '<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300"><rect width="100%" height="100%" fill="#2a2f3a"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#aaa" font-family="Arial" font-size="18">Image non disponible</text></svg>'
+);
+
 // Affichage de la carte info
 function showInfo(country, type) {
   document.getElementById('countryName').textContent = country.name;
-  document.getElementById('dishImg').src = country[type].img;
+  const img = country[type].img;
+  document.getElementById('dishImg').src = img === 'TODO_IMAGE_MANQUANTE' ? IMAGE_PLACEHOLDER : img;
   document.getElementById('dishDesc').textContent = country[type].desc;
   document.getElementById('infoCard').style.display = 'block';
 }
