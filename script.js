@@ -1085,6 +1085,69 @@ const countriesData = [
   dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/images/pastizzi.jpg", desc: "Pastizzi" },
   monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/valletta-skyline.jpg", desc: "Silhouette de La Valette" },
   festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/28277fd0bd87d597cb0017538cdbdc92f8ccdb29/public/bg/malta-carnival.jpg", desc: "Carnaval de Malte" }
+},
+{
+  name: "Équateur",
+  coords: [-0.1807, -78.4678],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/ceviche-camaron.jpg", desc: "Ceviche de crevettes" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/galapagos.jpg", desc: "Îles Galápagos" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/mama-negra.jpg", desc: "Fiesta de la Mama Negra" }
+},
+{
+  name: "Uruguay",
+  coords: [-34.9011, -56.1645],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/chivito.jpg", desc: "Chivito" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/palacio-salvo.jpg", desc: "Palacio Salvo (Montevideo)" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/carnaval-montevideo.jpg", desc: "Carnaval de Montevideo" }
+},
+{
+  name: "Paraguay",
+  coords: [-25.2637, -57.5759],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/sopa-paraguaya.jpg", desc: "Sopa paraguaya" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/jesus-de-tavarangue.jpg", desc: "Ruines jésuites de Jesús de Tavarangüe" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/danza-de-la-botella.jpg", desc: "Danse de la bouteille" }
+},
+{
+  name: "Guyana",
+  coords: [6.8013, -58.1551],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/pepperpot.jpg", desc: "Pepperpot" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/kaieteur-falls.jpg", desc: "Chutes de Kaieteur" },
+  festival: { img: "TODO_IMAGE_MANQUANTE", desc: "Mashramani" }
+},
+{
+  name: "Suriname",
+  coords: [5.8520, -55.2038],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/roti-suriname.jpg", desc: "Roti" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/paramaribo.jpg", desc: "Centre historique de Paramaribo" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/kawina.jpg", desc: "Kawina (musique traditionnelle)" }
+},
+{
+  name: "Honduras",
+  coords: [14.0723, -87.1921],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/baleada.jpg", desc: "Baleada" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/copan-ruins.jpg", desc: "Ruines de Copán" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/feria-la-ceiba.jpg", desc: "Feria de La Ceiba" }
+},
+{
+  name: "Salvador",
+  coords: [13.6929, -89.2182],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/pupusas.jpg", desc: "Pupusas" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/joya-de-ceren.jpg", desc: "Site archéologique de Joya de Cerén" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/salvador-del-mundo.jpg", desc: "Fiestas Agostinas (Divin Sauveur du Monde)" }
+},
+{
+  name: "Nicaragua",
+  coords: [12.1364, -86.2514],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/gallo-pinto-nicaragua.jpg", desc: "Gallo pinto" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/catedral-granada.jpg", desc: "Cathédrale de Granada" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/palo-de-mayo.jpg", desc: "Palo de Mayo" }
+},
+{
+  name: "Belize",
+  coords: [17.2510, -88.7590],
+  dish: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/images/rice-and-beans-belize.jpg", desc: "Rice and beans" },
+  monument: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/xunantunich.jpg", desc: "Xunantunich" },
+  festival: { img: "https://raw.githubusercontent.com/TCHAZINON/WebJam/5a51486839cdd7d5509ab04db0156c3f82736f8c/public/bg/garifuna-settlement-day.jpg", desc: "Garifuna Settlement Day" }
 }
 
 ];
